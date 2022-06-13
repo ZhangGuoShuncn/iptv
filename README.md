@@ -6,7 +6,7 @@
 -------------
 
 > 不定期更新
- 
+https://github.com/ZhangGuoShuncn/iptv/commit/df3b0f8569580a6749f22f884063d33c3cbf00d4.m3u
 ### PC端播放器potplayer
 https://cloud.189.cn/t/7BNr6nAVJru2
 
